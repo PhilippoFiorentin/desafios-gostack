@@ -1,6 +1,6 @@
-<h1> desafio01-gostack </h1>
+<h1> Desafios GoStack Bootcamp - Rocketseat </h1>
 <br>
-<p><strong>Primeiro desafio</strong> do curso GoStack Bootcamp da Rocketseat para consolidar os conceitos de NodeJS ensinados.</p>
+<h2><strong>Primeiro desafio</strong>: consolidar os conceitos de NodeJS ensinados.</h2>
 
 <h3><strong>Conceitos:</strong></h3>
 
